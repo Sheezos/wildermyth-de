@@ -1,5 +1,0 @@
-### Traduction
-Zoah
-
-### Relecture
-Aesoth
